@@ -8,5 +8,14 @@
     <image:image>
       <image:loc>http://sammocodes.github.io/images/14233117_10202192070400179_3655906230945795549_n-crop-u131.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://sammocodes.github.io/images/dicebattle.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sammocodes.github.io/assets/vid.mp4</loc>
+    <lastmod>2021-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
