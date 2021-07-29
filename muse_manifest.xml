@@ -1,8 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sammocodes.github.io" resolutions="1x" timestamp="1627571747469">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sammocodes.github.io" resolutions="1x" timestamp="1627573563770">
+  <folder name="images">
+    <file name="favicon.ico" crc="252951381" ref="index"/>
+    <file name="14233117_10202192070400179_3655906230945795549_n-crop-u131.jpg" crc="467282470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4134378038" ref="index"/>
-    <file name="index.css" crc="3970583145" ref="index"/>
+    <file name="site_global.css" crc="3863388041"/>
+    <file name="master_a-master.css" crc="3817232131" ref="index"/>
+    <file name="index.css" crc="297206595" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="open-sans-v20-latin-regular.woff" crc="20966537"/>
@@ -15,6 +21,8 @@
     <file name="museconfig.js" crc="380897831" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
-  <file name="index.html" crc="4185388449" seo="true" mt="1627571584204" redirect="true"/>
+  <file name="index.html" crc="4212390654" seo="true" mt="1627573540369" redirect="true"/>
 </manifest>
