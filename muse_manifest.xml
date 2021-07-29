@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sammocodes.github.io" resolutions="1x" timestamp="1627577094915">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sammocodes.github.io" resolutions="1x" timestamp="1627578374917">
   <folder name="assets">
     <file name="vid.mp4" crc="443484245" seo="true" mt="1627576454000"/>
   </folder>
@@ -10,11 +10,32 @@
     <file name="dicebattle.jpg" crc="4269696721" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="girafferunner.jpg" crc="207375348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cash4trash.jpg" crc="4079093057" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="barmaster.jpg" crc="531010943" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="humanball.jpg" crc="4067102983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="getaway.jpg" crc="411799204" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hedgemaze.jpg" crc="3954507832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="warehousestack.jpg" crc="3961059607" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3863388041"/>
     <file name="master_a-master.css" crc="3866309826" ref="index"/>
-    <file name="index.css" crc="3926163156" ref="index"/>
+    <file name="index.css" crc="232427407" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="open-sans-v20-latin-regular.woff" crc="20966537"/>
@@ -30,5 +51,5 @@
     <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
-  <file name="index.html" crc="42601443" seo="true" mt="1627577061724" redirect="true"/>
+  <file name="index.html" crc="3921707667" seo="true" mt="1627578356819" redirect="true"/>
 </manifest>

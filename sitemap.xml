@@ -11,6 +11,27 @@
     <image:image>
       <image:loc>http://sammocodes.github.io/images/dicebattle.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://sammocodes.github.io/images/girafferunner.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sammocodes.github.io/images/cash4trash.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sammocodes.github.io/images/barmaster.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sammocodes.github.io/images/humanball.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sammocodes.github.io/images/getaway.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sammocodes.github.io/images/hedgemaze.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sammocodes.github.io/images/warehousestack.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://sammocodes.github.io/assets/vid.mp4</loc>
